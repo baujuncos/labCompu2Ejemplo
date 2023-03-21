@@ -13,6 +13,6 @@ Esto es una prueba de markdown.
 
 ### Aula Virtual
 
-[Aula Virtual] (https://presencial.ucc.edu.ar/course/view.php?id=9253)
+[Aula Virtual](https://presencial.ucc.edu.ar/course/view.php?id=9253)
 
 :blush:
